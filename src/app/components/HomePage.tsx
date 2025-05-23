@@ -30,7 +30,7 @@ export default function HomePage() {
         </header>
 
         {/* Hero Section */}
-        <section className="flex flex-col items-center justify-center text-center mt-40 space-y-8 mb-32">
+        < section className="flex flex-col items-center justify-center text-center mt-40 space-y-8 mb-32">
           <h2 className="text-6xl md:text-7xl font-extrabold tracking-tight leading-tight">
             <span className="bg-gradient-to-r from-green-300 via-emerald-400 to-teal-400 bg-clip-text text-transparent">
               Track Your Verified Contributions
@@ -265,7 +265,7 @@ export default function HomePage() {
         <footer className="py-12 border-t border-[#26A641]/10">
           <div className="container mx-auto px-6 flex flex-col md:flex-row justify-between items-center">
             <div className="text-[#A6F0C6]/70 text-sm">
-              © 2024 CodeCred. Open source with 💚
+              © 2025 CodeCred. Made with 💚
             </div>
             <a 
               href="https://github.com/yourusername/codecred" 
